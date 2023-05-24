@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="item_default_name">tamagochi</string>
+    <string name="item_default_price">price\n</string>
+</resources>
